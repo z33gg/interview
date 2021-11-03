@@ -1,4 +1,4 @@
-package com.work.interview.designpattern.strategyPattern.demo1;
+package com.work.interview.designpattern.StrategyPattern.demo1;
 
 public class OrderContext {
 

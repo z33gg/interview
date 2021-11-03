@@ -1,4 +1,4 @@
-package com.work.interview.designpattern.strategyPattern.dto;
+package com.work.interview.designpattern.StrategyPattern.dto;
 
 import lombok.Data;
 

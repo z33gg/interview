@@ -1,4 +1,4 @@
-package com.work.interview.designpattern.strategyPattern.orderEnum;
+package com.work.interview.designpattern.StrategyPattern.orderEnum;
 
 public enum OrderEnum {
 	Common("1","common"),

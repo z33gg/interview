@@ -1,7 +1,7 @@
-package com.work.interview.designpattern.strategyPattern.springDemo.base;
+package com.work.interview.designpattern.StrategyPattern.springDemo.base;
 
-import com.work.interview.designpattern.strategyPattern.orderEnum.OrderEnum;
-import com.work.interview.designpattern.strategyPattern.springDemo.OrderHandleService;
+import com.work.interview.designpattern.StrategyPattern.orderEnum.OrderEnum;
+import com.work.interview.designpattern.StrategyPattern.springDemo.OrderHandleService;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanFactoryPostProcessor;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;

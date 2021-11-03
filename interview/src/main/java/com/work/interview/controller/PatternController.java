@@ -1,6 +1,6 @@
 package com.work.interview.controller;
 
-import com.work.interview.designpattern.strategyPattern.dto.OrderDTO;
+import com.work.interview.designpattern.StrategyPattern.dto.OrderDTO;
 import com.work.interview.service.PatternService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;

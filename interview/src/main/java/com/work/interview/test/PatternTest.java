@@ -1,7 +1,7 @@
 package com.work.interview.test;
 
-import com.work.interview.designpattern.strategyPattern.demo1.CommonOrderHandle;
-import com.work.interview.designpattern.strategyPattern.demo1.OrderContext;
+import com.work.interview.designpattern.StrategyPattern.demo1.CommonOrderHandle;
+import com.work.interview.designpattern.StrategyPattern.demo1.OrderContext;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 

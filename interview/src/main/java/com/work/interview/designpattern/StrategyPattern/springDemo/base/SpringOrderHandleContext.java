@@ -1,6 +1,6 @@
-package com.work.interview.designpattern.strategyPattern.springDemo.base;
+package com.work.interview.designpattern.StrategyPattern.springDemo.base;
 
-import com.work.interview.designpattern.strategyPattern.springDemo.OrderHandleService;
+import com.work.interview.designpattern.StrategyPattern.springDemo.OrderHandleService;
 import org.springframework.util.StringUtils;
 
 import java.util.Map;

@@ -1,6 +1,6 @@
-package com.work.interview.designpattern.strategyPattern.springDemo.base;
+package com.work.interview.designpattern.StrategyPattern.springDemo.base;
 
-import com.work.interview.designpattern.strategyPattern.orderEnum.OrderEnum;
+import com.work.interview.designpattern.StrategyPattern.orderEnum.OrderEnum;
 
 import java.lang.annotation.*;
 
